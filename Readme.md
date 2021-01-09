@@ -11,13 +11,12 @@ Malsite-Deep：Prediction of protein malonylation sites through deep learning an
  * pandas
  * TensorFlow
  * keras
+ 
 ###Guiding principles:
-
 **The dataset file contains five categories  datasets, which contain training dataset and independent test dataset.
 
 
 **Feature extraction：
-
 
 * PseAAC.py is the implementation of PseAAC.
 * exchange_matrix.m and be_extract_feature are the implementation of BE.
@@ -29,10 +28,9 @@ Malsite-Deep：Prediction of protein malonylation sites through deep learning an
 * PWAA_Y1.m is the implementation of PWAA.
 
 **NearMiss_2:
-
 * NearMiss_2.py is the implementation of NearMiss_2.
-**Classifier:
 
+**Classifier:
 * AdaBoost.py is the implementation of Adaboost.
 * CNN.py is the implementation of CNN.
 * DNN.py is the implementation of DNN.
