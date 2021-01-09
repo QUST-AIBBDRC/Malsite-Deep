@@ -30,7 +30,7 @@ Malsite-Deep：Prediction of protein malonylation sites through deep learning an
 
 **NearMiss_2:
 
- * NearMiss_2.py is the implementation of NearMiss_2.
+* NearMiss_2.py is the implementation of NearMiss_2.
 **Classifier:
 
 * AdaBoost.py is the implementation of Adaboost.
